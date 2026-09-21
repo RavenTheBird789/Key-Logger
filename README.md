@@ -1,9 +1,9 @@
-# Key-Logger
+# Key-Logger 👨🏾‍💻🗒️
 Python script for a demo of a key logger
 
 Prerequisites:
 1. Ensure the latest version of python in installed in your terminal (python 3.x)
-2. Ensure you have a virtual env for the required python libraries (If you don't, one can easily be created by executing the command "python3 -m venv env")
+2. Ensure you have a virtual env for the required python library (If you don't, one can easily be created by executing the command "python3 -m venv env")
 
 Installation & Execution:
 * To install, simply type "git clone https://github.com/RavenTheBird789/Key-Logger" in your terminals command line
