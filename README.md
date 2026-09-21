@@ -1,6 +1,8 @@
 # Key-Logger 👨🏾‍💻🗒️
 Python script for a demo of a key logger
 
+![Alt text](images/Screenshot_20260921_005852_Gmail.jpg)
+
 Prerequisites:
 1. Ensure the latest version of python in installed in your terminal (python 3.x)
 2. Ensure you have a virtual env for the required python library (If you don't, one can easily be created by executing the command "python3 -m venv env")
