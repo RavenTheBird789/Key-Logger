@@ -14,3 +14,4 @@ Installation & Execution:
 Notes:
 * After installing the required library, create a .env text file to store your MY_EMAIL and PASSWORD variables along with their corresponding values
 * Create an app password for your Google account to paste as the value for the PASSWORD variable in your .env text file
+* KeyboardInturrupt (Ctrl + C) can be used to terminate the program easily within the terminal session
