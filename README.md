@@ -14,9 +14,9 @@ Installation & Execution:
 2. Once in the directory, activate your env with the command "source env/bin/activate"
 3. After your env is activated, run the command "pip install -r requirements.txt" to install the required library
 4. After installing the required library, create a .env text file to store your MY_EMAIL and PASSWORD variables along with their corresponding values
+5. Create an app password for your Google account to paste as the value for the PASSWORD variable in your .env text file
    
 * To run, simply type "python3 key_logger.py" in your terminals command line or use the bash alias command to create a shortcut to run the program in your terminal such as "alias keylog="python3 key_logger.py""
 
-Notes:
-* Create an app password for your Google account to paste as the value for the PASSWORD variable in your .env text file
+Note:
 * KeyboardInturrupt (Ctrl + C) can be used to terminate the program easily within the terminal session
