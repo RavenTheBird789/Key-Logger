@@ -9,6 +9,11 @@ Prerequisites:
 
 Installation & Execution:
 * To install, simply type "git clone https://github.com/RavenTheBird789/Key-Logger" in your terminals command line
+
+1. After installing, use the command "cd Key-Logger" to enter the Key-Logger directory
+2. Once in the directory, activate your env with the command "source env/bin/activate"
+3. After your env is activated, run the command "pip install -r requirements.txt" to install the required library
+   
 * To run, simply type "python3 key_logger.py" in your terminals command line or use the bash alias command to create a shortcut to run the program in your terminal such as "alias keylog="python3 key_logger.py""
 
 Notes:
