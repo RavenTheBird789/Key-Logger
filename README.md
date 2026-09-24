@@ -19,6 +19,6 @@ Installation & Execution:
    
 * To run, simply type "python3 key_logger.py" in your terminals command line or use the bash alias command to create a shortcut to run the program in your terminal such as "alias keylog="python3 key_logger.py""
 
-Note:
+Notes:
 * KeyboardInturrupt (Ctrl + C) can be used to terminate the program easily within the terminal session
-* It is highly recommended to use a burner email/Google account for configuring the .env text file values for this tool
+* It is highly recommended to use a burner email/Google account for configuring the .env text file variables values for this tool
