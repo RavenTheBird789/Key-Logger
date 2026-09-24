@@ -21,3 +21,4 @@ Installation & Execution:
 
 Note:
 * KeyboardInturrupt (Ctrl + C) can be used to terminate the program easily within the terminal session
+* It is highly recommended to use a burner email/Google account for this project
