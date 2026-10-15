@@ -1,4 +1,4 @@
-# Key-Logger 👨🏾‍💻🗒️
+# Keylogger 👨🏾‍💻🗒️
 Python script for a demo of a key logger
 
 ![Alt text](images/Screenshot_20260921_005852_Gmail.jpg)
